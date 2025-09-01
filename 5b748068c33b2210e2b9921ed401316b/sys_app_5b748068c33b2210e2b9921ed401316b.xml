@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>4484c8acc3f72210e2b9921ed4013103</logo>
+        <menu/>
+        <name>Netflix</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1131775_netflix</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Movie watching app</short_description>
+        <source>x_1131775_netflix</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:22:01</sys_created_on>
+        <sys_id>5b748068c33b2210e2b9921ed401316b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 20:22:04</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=5b748068c33b2210e2b9921ed401316b"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>netflix icon.png</file_name>
+        <hash>1176646e0633315335183cfa6cfb5bcbfc0854223bfae1b928523c17f01e3449</hash>
+        <image_height>148</image_height>
+        <image_width>158</image_width>
+        <size_bytes>1318</size_bytes>
+        <size_compressed>1341</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:22:03</sys_created_on>
+        <sys_id>4484c8acc3f72210e2b9921ed4013103</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-01 20:22:04</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>5b748068c33b2210e2b9921ed401316b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="netflix icon.png" sys_id="4484c8acc3f72210e2b9921ed4013103">4484c8acc3f72210e2b9921ed4013103</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:22:03</sys_created_on>
+        <sys_id>8484c8acc3f72210e2b9921ed4013103</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>ASYF2fqJUE5HDQoaCgAAAA1JSERSAAAAngAAAJQIAwAAAFXAYC8AAACHUExURQAAALEGD+UJFLkGD2oECegJFOwJFP///3YECmADCKAGDq4GD38EC3sECpkFDacGDo4FDG8ECfIJFb8HEM0IEm1tbZubm9/f3w4ODoCAgC4uLsLCwoqKikpKShUVFcYHEdkIE0oDBlADB1kDCIYFCz0CBR8BAy0BBDMCBBgAARAAAUMDBiUBA+V9eNEAAARaSURBVHic7Zxbd6IwFIXDVQk0RHSmc+uIgpfa+f+/bxJrW4GNfapnP7Bfm2W/le3J2QkYNZvNvilKfXNoajb7Ls0xpu8e7/GHNMaYfjw6vJ/SFOP6OVOPv6QhxvXrUf2WZril3+qPNMIt/VFP0gi39KT+SiPcEjXcpEmTJk2a9MXKSj1Q2fZH7eJsoPh4D7wqBeqPWiyjgZbxHfC2dRIOlC56o+IoGCi6C14E8JKABa/RQ7owqTcseHaF3J2T4GW2TMH0rbujFmJ4pgV4YcWCp9s1ctdy4MXalqh2VyR4pbU1cDdsOPByg901HHiBsRrW7jMFXqRtgcytrldmQbzStEswfalmwbMGfPnC+mrUXA4v16ZFsSW8amySeM5dFFvSnAIv8O6CyUvqHQWec7dAK3P68f8l8dz0tfnt2CKKlxsLY0t64sDTI43tfccmind2F8WWJQdernFsqbckeKaAW463UCqL591FsSV9C6XCeM7dB9TXqh0Jnilg7WoKPN/YNNxynCjwnLs4tsQkeKZYjrsrjedrF4XSpD5w4LnaRStzlVHguVBaoNiSLinwfO1aVBvhngLP1y5qbElLgmfaANVuRIF3dhd4m4QbCjzn7hy5W7UUeIFzF56UrjjwnLstKl0XWxjwfO2OnKUx4PnGBk9K16d4SCeAN7LlCDMKvNHYYrOSAM+7a1Ht1k2ZU+DZeQj343o4fffH8+5GcOmzDHhjoTQMjR64K4KHY0sYmMH0CeCd3YU7Ngq8UXfrobsieC62wMf3Q3cl8HwohSeltdUEeKOxJdR9d8XwUGxJor67Ini+duFJ6cpoArzz9MHY0ndXBs+FUnxS2ndXBm80toS2G1vE8GwDY4s2DHiuODIDHxJ1Y4sUXmmyDNVGr7EJ4bnGFj/D2FJ2ikMKL9cLhd9+4MArF+qlQvZ23JXCC/K5UjC25NfTJ4YXODy49HW2HHJ4D0ptkbmdxiaGFxVKnWCmjwwJ3oi7V18+WbzDZ+7K4il4lhYYFrwYLX31R+0K4x1QbEk+YoswnsKv5NLgzYG5Sf1eu9J4/+AD3vKtdqXxoLvpe2wRx9vA2GJZ8HBsKS/FIY8HtxxvsUUer0Hm1pfGJof3cPnjCZ62XBqbPN7N2EKAt0dvHV62HAR4Cp62vLrLgDdHS99r7TLgvcDGdq5dBjwVoOJYGhY89Frfa+1S4D2j0j27S4Gn8JtLhgWvGYstHHh7+OaSC6UceDi2uC0HCd7ISWlJggcbW5hrObzu70tH3A1I8Pa4dnMSPBxb8pIFr0Cpb6UzErwtfARYNvgTvx6v/8P6KE28usWxvCPe5a6BPC+1NmbbG7RYr1e1m8K0qvw1BmfOpO6P+hI8fyGC/zHTQ7zdvOx2x8O//Wkwan847l422yZbtCZY10nqKKt7fPd22fYwxPlUx6bQ9zB30qRJkyZNYhX1/YV/2a+mJL/Yk/xaVPJLZcmv5GW/0Jj8Omjqy7T/AwDCWkWfKPUzAAAAAElFTkSuQmCCWEkpjyYFAAA=</data>
+        <length>1776</length>
+        <position>1</position>
+        <sys_attachment display_value="netflix icon.png" sys_id="4484c8acc3f72210e2b9921ed4013103">4484c8acc3f72210e2b9921ed4013103</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-01 20:22:03</sys_created_on>
+        <sys_id>0884c8acc3f72210e2b9921ed4013103</sys_id>
+    </sys_attachment_doc>
+</record_update>
