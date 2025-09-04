@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Copy of Media Review">5ac4de5dc3b32210e2b9921ed40131f4</catalog_item>
+        <catalog_variable>IO:12c4129dc3b32210e2b9921ed4013130</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 14:47:56</sys_created_on>
+        <sys_id>3ac4129dc3b32210e2b9921ed40131c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>average_rating</sys_name>
+        <sys_package display_value="Netflix" source="x_1131775_netflix">5b748068c33b2210e2b9921ed401316b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">5b748068c33b2210e2b9921ed401316b</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_3ac4129dc3b32210e2b9921ed40131c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 14:47:56</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show media data when media is selected">72c4129dc3b32210e2b9921ed40131ba</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>average_rating</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=3ac4129dc3b32210e2b9921ed40131c3"/>
+</record_update>
