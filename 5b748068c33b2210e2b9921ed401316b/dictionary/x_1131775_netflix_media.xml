@@ -11,13 +11,13 @@
         <element label="Synopsis" max_length="4000" name="synopsis" type="string"/>
         <element default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
         <element default="0" label="IMDB Rating" max_length="40" name="imdb_rating" type="float"/>
-        <element default="1000" label="Website" max_length="40" name="website" type="url"/>
+        <element label="Website" max_length="1000" name="website" type="url"/>
         <element default="0" label="Average Rating" max_length="255" name="average_rating" type="float"/>
         <element label="language" max_length="250" name="language" type="string"/>
         <element label="Country" max_length="250" name="country" type="string"/>
         <element label="Production" max_length="250" name="production" type="string"/>
         <element label="Writers" max_length="4000" name="writers" type="string"/>
-        <element default="1000" label="Poster" max_length="40" name="poster" type="url"/>
+        <element label="Poster" max_length="1000" name="poster" type="url"/>
         <element label="Awards" max_length="250" name="awards" type="string"/>
         <element label="Category" max_length="40" name="category" type="string"/>
         <element label="Release Date" max_length="255" name="release_date" type="glide_date"/>
