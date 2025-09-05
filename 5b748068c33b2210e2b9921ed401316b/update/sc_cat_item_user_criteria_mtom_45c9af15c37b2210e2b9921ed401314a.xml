@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Copy of Media Review">5ac4de5dc3b32210e2b9921ed40131f4</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-04 20:59:11</sys_created_on>
+        <sys_id>45c9af15c37b2210e2b9921ed401314a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Media Review.Netflix users</sys_name>
+        <sys_package display_value="Netflix" source="x_1131775_netflix">5b748068c33b2210e2b9921ed401316b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">5b748068c33b2210e2b9921ed401316b</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_45c9af15c37b2210e2b9921ed401314a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 20:59:11</sys_updated_on>
+        <user_criteria display_value="Netflix users">de290b5dc3b72210e2b9921ed40131d4</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
