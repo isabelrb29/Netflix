@@ -38,12 +38,13 @@
         <message/>
         <message_html><![CDATA[<p>Hello ${opened_by.first_name}</p>
 <p>Thank you for your review ${media.type} ${media.title}.</p>
-<p>It is <strong>approved</strong>.</p>
+<p>Unfortunately, your review was <strong>rejected</strong>.</p>
+<p><span data-teams="true">The reproval reason is <span style="color: rgb(35, 111, 161);"><strong>${reproval_reason}</strong></span></span></p>
 <p><img style="margin: 20px; width: 200px; border-radius: 20px;" title="poster" src="${media.poster}" alt="" data-library="false"></p>
 <p>If you want to send more reviews, click <a href="https://dev293866.service-now.com/sp?id=sc_cat_item&amp;sys_id=7cdfe9c9c3372210e2b9921ed40131d2">here</a>.</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>Review Approved</name>
+        <name>Review Reproved</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
@@ -58,19 +59,19 @@
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-05 20:29:57</sys_created_on>
+        <sys_created_on>2025-09-08 13:23:04</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>14c9e07dc333a210e2b9921ed4013133</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_name>Review Approved</sys_name>
+        <sys_id>aab7e662c3732210e2b9921ed40131e5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Review Reproved</sys_name>
         <sys_overrides/>
         <sys_package display_value="Netflix" source="x_1131775_netflix">5b748068c33b2210e2b9921ed401316b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Netflix">5b748068c33b2210e2b9921ed401316b</sys_scope>
-        <sys_update_name>sysevent_email_action_14c9e07dc333a210e2b9921ed4013133</sys_update_name>
+        <sys_update_name>sysevent_email_action_aab7e662c3732210e2b9921ed40131e5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-08 15:07:03</sys_updated_on>
+        <sys_updated_on>2025-09-08 15:11:39</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
