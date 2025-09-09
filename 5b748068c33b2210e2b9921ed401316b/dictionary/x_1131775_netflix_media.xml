@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="c8bab764c3bb6210e2b9921ed4013140" label="Media" max_length="40" name="x_1131775_netflix_media" type="collection">
+        <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
+            </choice>
+        </element>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Series" sequence="2" value="series"/>
                 <element inactive_on_update="false" label="Movie" sequence="0" value="movie"/>
                 <element inactive_on_update="false" label="Episode" sequence="1" value="episode"/>
+            </choice>
+        </element>
+        <element choice="1" default="1" label="Integration State" max_length="40" name="integration_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Integration Failure" sequence="2" value="4"/>
+                <element inactive_on_update="false" label="Media not Found" sequence="4" value="7"/>
+                <element inactive_on_update="false" label="Starting" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Integration Success" sequence="3" value="3"/>
             </choice>
         </element>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>

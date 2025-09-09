@@ -42,6 +42,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-02 14:57:29</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-09 12:54:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5cca677ec3332210e2b9921ed4013193</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1131775_netflix_media" name="x_1131775_netflix_media" sys_domain="global" view="Default view">83c3c430c3fb6210e2b9921ed40131b9</sys_ui_form>
+            <sys_ui_section caption="Integration" display_value="Integration" name="x_1131775_netflix_media" sys_domain="global" view="Default view">94ca677ec3332210e2b9921ed4013183</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-09 12:54:23</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1131775_netflix_media</name>
             <roles/>
