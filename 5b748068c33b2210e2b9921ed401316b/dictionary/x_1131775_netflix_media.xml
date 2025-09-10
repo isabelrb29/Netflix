@@ -24,6 +24,7 @@
         </element>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>
         <element label="Release Year" max_length="4" name="release_year" type="string"/>
+        <element label="Integration Error Message" max_length="1000" name="integration_error_message" type="string"/>
         <element label="Synopsis" max_length="4000" name="synopsis" type="string"/>
         <element default="0" label="Metascore" max_length="40" name="metascore" type="integer"/>
         <element default="0" label="IMDB Rating" max_length="40" name="imdb_rating" type="float"/>
