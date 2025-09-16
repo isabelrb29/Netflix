@@ -2,6 +2,7 @@
     <element db_object_id="c8bab764c3bb6210e2b9921ed4013140" label="Media" max_length="40" name="x_1131775_netflix_media" type="collection">
         <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Duplicate" sequence="2" value="7"/>
                 <element inactive_on_update="false" label="Draft" sequence="0" value="1"/>
                 <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
             </choice>
