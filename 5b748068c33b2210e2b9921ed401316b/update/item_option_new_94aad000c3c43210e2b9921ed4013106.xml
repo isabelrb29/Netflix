@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Media Review">7cdfe9c9c3372210e2b9921ed40131d2</cat_item>
+        <cat_item display_value="Media Suggestion">bbfafbbbc3372210e2b9921ed40131d8</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -22,47 +22,44 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>media</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
-        <help_text>Choose a media you would like to review</help_text>
+        <help_text/>
         <hidden>false</hidden>
         <include_none>false</include_none>
         <instructions/>
-        <layout>normal</layout>
-        <list_table>x_1131775_netflix_media</list_table>
+        <layout>2down</layout>
+        <list_table/>
         <lookup_label/>
         <lookup_price/>
-        <lookup_table>x_1131775_netflix_media</lookup_table>
+        <lookup_table/>
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>true</map_to_field>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>media</name>
+        <name>formatter</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>100</order>
+        <order>400</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Media</question_text>
+        <question_text/>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table>x_1131775_netflix_review</record_producer_table>
-        <reference>x_1131775_netflix_media</reference>
-        <reference_qual>average_rating=0^ORaverage_rating=null^EQ</reference_qual>
-        <reference_qual_condition table="x_1131775_netflix_media">average_rating=0^ORaverage_rating=null^EQ<item endquery="false" field="average_rating" goto="false" newquery="false" operator="=" or="false" value="0"/>
-            <item endquery="false" field="average_rating" goto="false" newquery="false" operator="=" or="true" value="null"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </reference_qual_condition>
+        <record_producer_table>x_1131775_netflix_suggestion</record_producer_table>
+        <reference/>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -80,20 +77,20 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-03 17:45:20</sys_created_on>
-        <sys_id>d4c2f1cdc3372210e2b9921ed40131cd</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_name>Media</sys_name>
+        <sys_created_on>2025-09-12 18:57:29</sys_created_on>
+        <sys_id>94aad000c3c43210e2b9921ed4013106</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>formatter</sys_name>
         <sys_package display_value="Netflix" source="x_1131775_netflix">5b748068c33b2210e2b9921ed401316b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Netflix">5b748068c33b2210e2b9921ed401316b</sys_scope>
-        <sys_update_name>item_option_new_d4c2f1cdc3372210e2b9921ed40131cd</sys_update_name>
+        <sys_update_name>item_option_new_94aad000c3c43210e2b9921ed4013106</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-15 20:30:46</sys_updated_on>
+        <sys_updated_on>2025-09-12 18:57:29</sys_updated_on>
         <table/>
-        <tooltip>media you would like to review</tooltip>
+        <tooltip/>
         <topic_block/>
-        <type>8</type>
+        <type>20</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -109,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=d4c2f1cdc3372210e2b9921ed40131cd"/>
-    <fx_price action="delete_multiple" query="id=d4c2f1cdc3372210e2b9921ed40131cd"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=94aad000c3c43210e2b9921ed4013106"/>
+    <fx_price action="delete_multiple" query="id=94aad000c3c43210e2b9921ed4013106"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="BRL">BRL</currency>
         <field>price_if_checked</field>
-        <id>d4c2f1cdc3372210e2b9921ed40131cd</id>
+        <id>94aad000c3c43210e2b9921ed4013106</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-03 17:45:20</sys_created_on>
-        <sys_id>fbc3b501c3772210e2b9921ed40131ca</sys_id>
+        <sys_created_on>2025-09-12 18:57:29</sys_created_on>
+        <sys_id>94aa14c0c3c43210e2b9921ed40131cf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-03 17:45:20</sys_updated_on>
+        <sys_updated_on>2025-09-12 18:57:29</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -132,28 +129,17 @@
         <amount>0</amount>
         <currency display_value="BRL">BRL</currency>
         <field>rec_price_if_checked</field>
-        <id>d4c2f1cdc3372210e2b9921ed40131cd</id>
+        <id>94aad000c3c43210e2b9921ed4013106</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-03 17:45:20</sys_created_on>
-        <sys_id>73c3b501c3772210e2b9921ed40131ca</sys_id>
+        <sys_created_on>2025-09-12 18:57:29</sys_created_on>
+        <sys_id>1caa14c0c3c43210e2b9921ed40131ce</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-03 17:45:20</sys_updated_on>
+        <sys_updated_on>2025-09-12 18:57:29</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
-    <sys_es_latest_script action="INSERT_OR_UPDATE">
-        <id>d4c2f1cdc3372210e2b9921ed40131cd</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-03 17:53:39</sys_created_on>
-        <sys_id>59b5f981c3772210e2b9921ed4013106</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-03 17:53:39</sys_updated_on>
-        <table>item_option_new</table>
-        <use_es_latest>true</use_es_latest>
-    </sys_es_latest_script>
 </record_update>

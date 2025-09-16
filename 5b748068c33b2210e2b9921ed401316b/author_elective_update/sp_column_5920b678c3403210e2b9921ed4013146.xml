@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag>main</semantic_tag>
+        <size>12</size>
+        <size_lg>12</size_lg>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">5120b678c3403210e2b9921ed4013144</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 13:46:11</sys_created_on>
+        <sys_id>5920b678c3403210e2b9921ed4013146</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Netflix" source="x_1131775_netflix">5b748068c33b2210e2b9921ed401316b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">5b748068c33b2210e2b9921ed401316b</sys_scope>
+        <sys_update_name>sp_column_5920b678c3403210e2b9921ed4013146</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 13:59:33</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">5b748068c33b2210e2b9921ed401316b</application>
+        <file_path/>
+        <instance_id>7aff68632b931618e83bf9f66e91bfd7</instance_id>
+        <instance_name>dev293866</instance_name>
+        <name>sp_column_5920b678c3403210e2b9921ed4013146</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag>main</semantic_tag><size>12</size><size_lg>12</size_lg><size_sm/><size_xs/><sp_row display_value="1">5120b678c3403210e2b9921ed4013144</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-15 13:46:11</sys_created_on><sys_id>5920b678c3403210e2b9921ed4013146</sys_id><sys_mod_count>2</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Netflix" source="x_1131775_netflix">5b748068c33b2210e2b9921ed401316b</sys_package><sys_policy/><sys_scope display_value="Netflix">5b748068c33b2210e2b9921ed401316b</sys_scope><sys_update_name>sp_column_5920b678c3403210e2b9921ed4013146</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-15 13:59:33</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-421214358</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>cefcc0e8c33b2210e2b9921ed40131e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 13:59:34</sys_created_on>
+        <sys_id>d533be3cc3403210e2b9921ed4013158</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1994dac7db70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 13:59:34</sys_updated_on>
+        <type>Column</type>
+        <update_guid>5d33be3cb340321082c42c2292a54857</update_guid>
+        <update_guid_history>5d33be3cb340321082c42c2292a54857:-421214358,5a23323ce34032103dbcd84d2d4d4e76:-158069676,5d20b6785940321080dd0fd2b3350d47:-1191318864</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">3a164734c3c03210e2b9921ed40131b3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 15:22:08</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>b7422b56793f49ccbdfc8155c9529790</sys_id>
+        <sys_metadata>5920b678c3403210e2b9921ed4013146</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Netflix" source="x_1131775_netflix">5b748068c33b2210e2b9921ed401316b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">5b748068c33b2210e2b9921ed401316b</sys_scope>
+        <sys_scope_delete display_value="">2a81abe926da440a87aeb5ca28550ce9</sys_scope_delete>
+        <sys_update_name>sp_column_5920b678c3403210e2b9921ed4013146</sys_update_name>
+        <sys_update_version display_value="sp_column_5920b678c3403210e2b9921ed4013146">d533be3cc3403210e2b9921ed4013158</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 15:22:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
